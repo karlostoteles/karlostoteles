@@ -19,8 +19,7 @@ Madrid.
 One-person team with AI. I decide what gets built and how it should feel; Claude writes the code, and I say so in every repo. The product is tested with real people before it is shown to anyone else.
 
 **Find me**
-- x.com/[@carldlfr](https://x.com/carldlfr)
-- [rufi.aircade.xyz](https://rufi.aircade.xyz/)
+- telegram/x.com -> [@carlos_rufi](https://x.com/carlos_rufi)
 - carlosdelafiguera@gmail.com
 
 > The code is the means, not the end.
